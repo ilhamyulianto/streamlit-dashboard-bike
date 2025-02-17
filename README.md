@@ -1,4 +1,4 @@
-# How To Run This Program
+# RUNS!
 
 1. Installing Packages and Python Environment
 
