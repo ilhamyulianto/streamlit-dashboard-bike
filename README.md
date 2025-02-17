@@ -10,4 +10,5 @@
 ## About
 dashboard displays visualizations for a set of Bike Share data using streamlit. Dataset contains information about bike rentals based on various variables such as season, temperature, humidity, and other factors. 
 
-
+## Streamlit documentation
+![Alt text](dataset/bik-shar1.png)
