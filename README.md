@@ -12,3 +12,7 @@ dashboard displays visualizations for a set of Bike Share data using streamlit. 
 
 ## Streamlit documentation
 ![Alt text](dataset/bik-shar1.png)
+![Alt text](dataset/bik-shar2.png)
+![Alt text](dataset/bik-shar3.png)
+![Alt text](dataset/bik-shar4.png)
+![Alt text](dataset/bik-shar5.png)
